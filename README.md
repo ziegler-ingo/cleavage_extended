@@ -43,7 +43,9 @@ This repository contains the code and dataset for the journal article "Proteasom
 ![Performance Comparison of all models and denoising architectures for C- and N-terminal](img/results_point_vertical_combined.png)
 ![Ablation study results](img/ablation_results.png)
 
-| Method                 	| C-Terminal 	| N-Terminal 	|
+### Comparison to other published methods (in % AUC)
+
+| Method                 	| C-Terminal  	| N-Terminal 	|
 |------------------------	|------------	|------------	|
 | PCPS                   	| 51.3       	| 50.0       	|
 | PCM                    	| 64.5       	| 52.4       	|
