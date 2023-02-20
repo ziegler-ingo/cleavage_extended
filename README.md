@@ -39,11 +39,14 @@ This repository contains the code and dataset for the journal article "Proteasom
 * DivideMix, called `dividemix`
 
 ## Achieved performances
+### Results of our new architectures benchmarked against themselves, including denoising methods
 ![Performance Comparison of all models and denoising architectures for C- and N-terminal](img/perf-bar-2.png)
 ![Performance Comparison of all models and denoising architectures for C- and N-terminal](img/results_point_vertical_combined.png)
+
+### Ablation analysis results of our best method, the BiLSTM
 ![Ablation study results](img/ablation_results.png)
 
-### Comparison to other published methods (in % AUC)
+### Comparison of our best method, the BiLSTM, to other published methods (in % AUC)
 
 | Method                 	| C-Terminal  	| N-Terminal 	|
 |------------------------	|------------	|------------	|
