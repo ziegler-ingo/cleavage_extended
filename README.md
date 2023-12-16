@@ -1,5 +1,8 @@
 # Cleavage Prediction, Extended
 
+
+**This repository is outdated. See the new and extended repository for the [current paper](https://www.biorxiv.org/content/10.1101/2023.07.17.549305) version [here](https://github.com/ziegler-ingo/cleavage_benchmark).**
+
 This repository contains the code and dataset for the article "Proteasomal cleavage prediction: state-of-the-art and future directions".
 
 ## Abstract
